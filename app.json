@@ -1,0 +1,21 @@
+{
+     "expo":{
+          "name": "Movies",
+          "slug": "movies",
+          "version": "1.0.0",
+          "platform": [
+               "android",
+               "ios"
+          ],
+          "ios":{
+               "bundleIdentifier":"cr.ac.ucr.movies",
+               "buildNumber": "1.0.0"
+          },
+          "android":{
+               "package":"cr.ac.ucr.movies",
+               "versionCode":1
+          },
+          "description":"",
+          "githubUrl":""
+     }
+}
