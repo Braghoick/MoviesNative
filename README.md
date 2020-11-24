@@ -1,4 +1,5 @@
-# My Universal React Project
+# React Native Movies
+# Repository created by Braghoick.
 
 <p>
   <!-- iOS -->
